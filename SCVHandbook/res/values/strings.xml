@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SCVHandbook</string>
+
+    <string-array name="characters">
+        <item>Aeon</item>
+        <item>Algol</item>
+        <item>Alpha Patroklos</item>
+        <item>Astaroth</item>
+        <item>Cervantes</item>
+        <item>Dampierre</item>
+        <item>Devil Jin</item>
+        <item>Ezio Auditore</item>
+        <item>Hilde</item>
+        <item>Ivy</item>
+        <item>Leixia</item>
+        <item>Maxi</item>
+        <item>Mitsurugi</item>
+        <item>Natsu</item>
+        <item>Nightmare</item>
+        <item>Patroklos</item>
+        <item>Pyrrha</item>
+        <item>Pyrrha Omega</item>
+        <item>Raphael</item>
+        <item>Siegfried</item>
+        <item>Tira</item>
+        <item>Viola</item>
+        <item>Voldo</item>
+        <item>Xiba</item>
+        <item>Yoshimitsu</item>
+        <item>Z.W.E.I.</item>
+    </string-array>
+    <string name="horizontal">A</string>
+	<string name="vertical">B</string>
+	<string name="kicks">K</string>
+	<string name="simultaneous">A+B</string>
+	<string name="eightwr">8WR</string>
+	<string name="grab">A+G</string>
+	<string name="edge">A+B+K</string>
+	<string name="combo">Combo</string>
+	<string name="stance">SS</string>
+</resources>
